@@ -2,7 +2,7 @@
 [![MasterHead](https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif)](https://lingadevaru-hp.io)
 
 <h1 align="center">Hi 👋, I'm Lingadevaru HP</h1>
-<h3 align="center">A passionate tech enthusiast developer from India</h3>
+<h3 align="center">A passionate tech enthusiast developer from India.</h3>
 
 <p align="left"> <img src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAC/computer-nerds.gif" alt="lingadevaru-hp" /> </p>
 
