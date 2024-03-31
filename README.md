@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **networking,cloudcomputing**
+- 💬 Ask me about **networking, Cloudcomputing**
 
 - 📫 How to reach me **lingadevaruhp@hotmail.com**
 
