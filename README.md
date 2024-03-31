@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Lingadevaru HP</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="lingadevaru-hp" /> </p>
+<p align="left"> <img src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif)" alt="lingadevaru-hp" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lingadevaru-hp" alt="lingadevaru-hp" /></a> </p>
