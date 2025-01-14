@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **networking, Cloudcomputing**
 
-- 📫 How to reach me **lingadevaruhp@hotmail.com**
+- 📫 How to reach me **contact@lingadevaru.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
