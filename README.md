@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/lingadevaruhp" target="blank"><img src="https://img.shields.io/twitter/follow/lingadevaruhp?logo=twitter&style=for-the-badge" alt="lingadevaruhp" /></a> </p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Dockers**
 
 - 💬 Ask me about **networking, Cloudcomputing**
 
