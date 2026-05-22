@@ -38,7 +38,6 @@
 - 🚀 working on **cloud computing** + experimenting with **AI/ML (Hugging Face)**
 - 💬 ask me about **networking, cloud, or tech**
 - 📫 reach me at **contact@lingadevaru.in**
-- 🎉 debugged a network issue at **3AM ☕**
 
 ---
 
