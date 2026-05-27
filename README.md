@@ -15,8 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/lingadevaruhp">
-    <img src="https://img.shields.io/twitter/follow/lingadevaruhp?logo=twitter&style=for-the-badge" />
+  <a href="https://x.com/lingadevaruhp">
   </a>
 </p>
 
