@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://lingadevaru.in">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW4zeGY1NXBkenppMXBkb2J1c2Z6NWJ4MzRmNXM4OHBvMDV6NGRmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t2YhmqCIIVNqUI1I9D/giphy.gif" width="800"/>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd2MXN4bHhvcTkwdXpsZ21rMnRudHJtNHpuN2RzZ29rZzd1MWJ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bQL3YuiKKAXBwewvZ1/giphy.gif" width="800"/>
   </a>
 </p>
 
