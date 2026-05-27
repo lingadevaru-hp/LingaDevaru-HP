@@ -1,6 +1,6 @@
 # lingadevaru hp
 
-[![MasterHead](https://raw.githubusercontent.com/lingadevaru-hp/Foss-Token/refs/heads/main/Thumbnail.gif)](https://lingadevaru.in)
+[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW4zeGY1NXBkenppMXBkb2J1c2Z6NWJ4MzRmNXM4OHBvMDV6NGRmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t2YhmqCIIVNqUI1I9D/giphy.gif)](https://lingadevaru.in)
 
 
 <h1 align="center">Hey there 👋 i'm lingadevaru hp</h1>
