@@ -10,10 +10,6 @@
 <h3 align="center">just a tech nerd from india chasing the next big thing in code and cloud</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAC/computer-nerds.gif" width="400"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lingadevaru-hp" />
 </p>
 
