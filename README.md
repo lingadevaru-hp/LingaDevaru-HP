@@ -1,113 +1,61 @@
-# Lingadevaru hp
+# Hey, I'm Lingadevaru HP
 
-<p align="center">
+**Blockchain developer, open-source contributor, and tech nerd from India.**
+
+Building FOSS infrastructure on Solana. Creator of [$FOSS Token](https://github.com/lingadevaru-hp/Foss-Token) — a Solana SPL token funding free and open-source software.
+
+🌐 **Portfolio:** [lingadevaru.in](https://lingadevaru.in)
+
+---
+
+## What I Do
+
+- **Blockchain** — Solana SPL tokens, on-chain programs, DEX liquidity (Orca Whirlpool)
+- **FOSS** — Free & Open Source Software advocate, building tools for the community
+- **AI/ML** — Custom LLMs, Hugging Face models, AI-powered applications
+- **Cloud & DevOps** — Docker, Kubernetes, Cloudflare Workers
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [Foss-Token](https://github.com/lingadevaru-hp/Foss-Token) | Solana SPL token ($FOSS) — live on mainnet, listed on Orca DEX |
+| [wiki-website](https://github.com/lingadevaru-hp/wiki-website) | Personal portfolio & wiki — Cloudflare Workers, React, TypeScript |
+| [insurance-dapp](https://github.com/lingadevaru-hp/insurance-dapp) | Blockchain-based decentralized insurance claims app |
+| [brockenn](https://github.com/lingadevaru-hp/brockenn) | Open-source projects and experiments |
+
+## $FOSS Token
+
+> *"FOSS Coin is a community-created token built to support and promote Free and Open Source Software."*
+
+- **Network:** Solana Mainnet
+- **Supply:** 1B Fixed (mint authority revoked)
+- **DEX:** [Orca Whirlpool](https://www.orca.so/pools/3Ub4ojhVSiMZtmrS8bHSEiMo9oqzauTyYtd3HjFbZnE2)
+- **Buy:** [Trade FOSS/SOL on Orca](https://www.orca.so/pools/3Ub4ojhVSiMZtmrS8bHSEiMo9oqzauTyYtd3HjFbZnE2)
+
+---
+
+## Connect
+
+<p>
   <a href="https://lingadevaru.in">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd2MXN4bHhvcTkwdXpsZ21rMnRudHJtNHpuN2RzZ29rZzd1MWJ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bQL3YuiKKAXBwewvZ1/giphy.gif" width="800"/>
+    <img src="https://img.shields.io/badge/Portfolio-lingadevaru.in-3366CC?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-</p>
-
-<h1 align="center">Hey there 👋 i'm lingadevaru hp</h1>
-<h3 align="center">just a tech nerd from india chasing the next big thing in code and cloud</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lingadevaru-hp" />
-</p>
-
-<p align="center">
   <a href="https://x.com/lingadevaruhp">
+    <img src="https://img.shields.io/badge/X-lingadevaruhp-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-</p>
-
----
-
-## 🦊 GitLab
-<p>
-  check out my gitlab projects 👉 
-  <a href="https://gitlab.com/lingadevaruhp">click here</a>
-  &nbsp;&nbsp;
-  <a href="https://gitlab.com/lingadevaruhp">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height="30"/>
-  </a>
-</p>
-
----
-
-- 🌱 diving deep into **docker** and **kubernetes**
-- 🚀 working on **cloud computing** + experimenting with **AI/ML (Hugging Face)**
-- 💬 ask me about **networking, cloud, or tech**
-- 📫 reach me at **contact@lingadevaru.in**
-
----
-
-## 🚀 what i’ve been up to
-
-- 🔧 building containerized apps with **Docker**
-- ☸️ exploring **Kubernetes orchestration**
-- 🤖 working on **AI models**
-
-👉 Hugging Face:  
-https://huggingface.co/lingadevaruhp  
-
-👉 My Repos:  
-https://github.com/lingadevaru-hp?tab=repositories  
-
----
-
-## 🌐 connect with me
-
-<p>
-  <a href="https://x.com/lingadevaruhp">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
-  </a>&nbsp;&nbsp;
-
   <a href="https://linkedin.com/in/lingadevaruhp">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://stackoverflow.com/users/23912940/user23912940">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://instagram.com/lingadevaruhp">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-  </a>&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/LinkedIn-lingadevaruhp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://huggingface.co/lingadevaruhp">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://gitlab.com/lingadevaruhp">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height="30"/>
+    <img src="https://img.shields.io/badge/HuggingFace-lingadevaruhp-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="https://kaggle.com/lingadevaruhp">
+    <img src="https://img.shields.io/badge/Kaggle-lingadevaruhp-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ languages and tools
-
-<p>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</p>
-
----
-
-## 📊 stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lingadevaru-hp&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingadevaru-hp&theme=tokyonight"/>
-</p>
+**Alternate names:** Thoshan, Thoshan HP  
+**Handles:** lingadevaruhp (all platforms), lingadevaru-hp (GitHub)
